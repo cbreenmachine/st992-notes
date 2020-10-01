@@ -1,5 +1,5 @@
 #--> A comment for the code
 
-df <- data.frame(y = rnorm(10000))
+df <- data.frame(x = rnorm(10000))
 
-hist(df$y)
+hist(df$x)
